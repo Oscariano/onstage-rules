@@ -17,7 +17,7 @@ endif::basebackend-html[]
 :icons: font
 :numbered:
 
-These are the recommended rules of the _RoboCup Federation_ for the _RoboCupJunior_ (RCJ) OnStage Entry events in 2025.
+These are the recommended rules of the _RoboCup Federation_ for the _RoboCupJunior_ (RCJ) OnStage Entry events in 2026.
 There will be *no OnStage Entry competition at the international level*. The rules are meant to be used at regional and super-regional events.
 
 Regional and super-regional tournament organizers may use these rules, make changes specific to their regions or not run Entry leagues at all. Contact your regions or super-regions tournament organizers to find out which rules are going to be used at your tournament.
